@@ -8,3 +8,16 @@
 - Paul
   - Task 4
   - Task 5
+
+
+# Arbeitsaufteilung Assignment 2
+
+- Mario
+  - 
+  - 
+- Philipp
+  - 
+  - 
+- Paul
+  - 
+  - 
