@@ -13,11 +13,11 @@
 # Arbeitsaufteilung Assignment 2
 
 - Mario
-  - 
-  - 
+  - Task 3
+  - Task 5
 - Philipp
-  - 
-  - 
+  - Task 1
+  - Task 2
 - Paul
   - 
   - 
