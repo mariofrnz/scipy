@@ -19,5 +19,4 @@
   - Task 1
   - Task 2
 - Paul
-  - 
-  - 
+  - Task 4
